@@ -1,3 +1,5 @@
+TÊN:Phùng Tuấn Huy
+MSSV: 2001230312
 TIỀN XỬ LÝ DỮ LIỆU – TITANIC DATASET
 
 1. Tải dữ liệu
