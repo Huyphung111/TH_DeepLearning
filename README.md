@@ -1,4 +1,4 @@
-#TIỀN XỬ LÝ DỮ LIỆU – TITANIC DATASET
+TIỀN XỬ LÝ DỮ LIỆU – TITANIC DATASET
 
 1. Tải dữ liệu
 Sử dụng thư viện Pandas để đọc dữ liệu từ file CSV vào DataFrame.  
